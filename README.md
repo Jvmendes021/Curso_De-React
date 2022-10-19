@@ -1,2 +1,2 @@
-# Curso_De-React
+# Curso-De-React-Dicasparadevs
 Curso de React para iniciantes.
